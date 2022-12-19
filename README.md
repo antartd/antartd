@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @antartd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web-development and Graphic design
+- 🌱 I’m currently learning Python and his frameworks, JavaScript and frameworks
 - 📫 How to reach me dmimev@gmail.com
 
 <!---
