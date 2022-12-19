@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antartd
 - 👀 I’m interested in Web-development and Graphic design
-- 🌱 I’m currently learning Python and his frameworks, JavaScript and frameworks
+- 🌱 I’m currently learning Python, JavaScript and them frameworks
 - 📫 How to reach me dmimev@gmail.com
 
 <!---
